@@ -1,2 +1,3 @@
 # Placement-Prep-v1
-A repo to keep track of my placement prep acros different topics and concepts
+## 5/10/2026
+*1st day of Preparation*
